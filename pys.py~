@@ -1,5 +1,6 @@
 import re
 from datetime import *
+from coclass import Course
 
 def parse_file():
 	weekday_dict = {'Mo' : 'Monday',
@@ -11,7 +12,9 @@ def parse_file():
 
 	cfile = open('courses.txt', 'r')
 	contents = cfile.readlines()
-	
+	rfc_format = '%Y-%m-%dT%I:%M:%S+08:00'
+	#courses = (re.findall('[A-Z]{4} [0-9]{4}-[A-Z]{1,2}[0-9]{1,2}', contents) )
+	mycourses = []
 	qk_req = []
 
 	for i in range(len(contents)):
@@ -33,5 +36,5 @@ def parse_file():
 				qk_req.append( course + " on " + w + " "+ time[0] + " " + contents[i+2])
 			
 			
-			
+			mycourses.append(Course(course, days, time))
 	return qk_req

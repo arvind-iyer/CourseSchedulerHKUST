@@ -33,7 +33,7 @@ def parse_file():
 
 			time = re.findall('[0-9]{1,2}:[0-9]{2}[AP]M - [0-9]{1,2}:[0-9]{2}[AP]M', contents[i+1])
 			if time:
-				qk_req.append( course + " on " + w + " "+ time[0])
+				qk_req.append( course + " on " + w + " "+ time[0] + " " + contents[i+2])
 			
 			
 			mycourses.append(Course(course, days, time))

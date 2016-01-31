@@ -1,0 +1,5 @@
+#Python 2.7.x
+apiclient==1.0.2
+argparse==1.2.1
+httplib2==0.9.2
+wsgiref==0.1.2

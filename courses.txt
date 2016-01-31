@@ -1,41 +1,44 @@
-Academic Calendar Deadlines	COMP 2711-L1
-LEC (1782)	TuTh 10:30AM - 11:50AM
-Rm 2465, Lift 25-26 (122)
-Academic Calendar Deadlines	COMP 2711-T1B
-TUT (1788)	We 1:30PM - 2:20PM
-Rm 2302, Lift 17-18 (74)
+	Class	Schedule
+Academic Calendar Deadlines	COMP 2011-L1
+LEC (1713)	TuTh 9:00AM - 10:20AM
+Rm 2464, Lift 25-26 (122)
+Academic Calendar Deadlines	COMP 2011-LA1
+LAB (1717)	Tu 11:00AM - 12:50PM
+Rm 4213, Lift 19 (67)
+Academic Calendar Deadlines	CPEG 1971-R1
+IND (1647)	Room:  TBA
 Academic Calendar Deadlines	CPEG 2930-T1
-TUT (1691)	We 6:00PM - 6:50PM
-Rm 2306, Lift 17-18 (111)
-Academic Calendar Deadlines	ELEC 2100-L1
-LEC (1922)	TuTh 12:00PM - 1:20PM
-Rm 4619, Lift 31-32 (126)
-Academic Calendar Deadlines	ELEC 2100-LA1
-LAB (1924)	Mo 3:00PM - 3:50PM
+TUT (1648)	We 6:00PM - 6:50PM
+Rm 5583, Lift 29-30 (80)
+Academic Calendar Deadlines	ELEC 2300-L1
+LEC (1935)	MoWe 9:00AM - 10:20AM
+Rm 1104, Acad Concourse (120)
+Academic Calendar Deadlines	ELEC 2300-LA2
+LAB (1939)	Mo 6:00PM - 7:50PM
 Rm 4225C, Lift 23, 24
-Academic Calendar Deadlines	ELEC 2100-T2
-TUT (1931)	Tu 9:30AM - 10:20AM
-Rm 4502, Lift 25-26 (60)
-Academic Calendar Deadlines	ELEC 2200-L1
-LEC (1935)	TuTh 4:30PM - 5:50PM
+Academic Calendar Deadlines	ELEC 2300-T2
+TUT (1942)	We 4:30PM - 5:20PM
+Rm 6602, Lift 31-32 (60)
+Academic Calendar Deadlines	ELEC 4120-L1
+LEC (2019)	MoWe 10:30AM - 11:50AM
 Rm 2502, Lift 25-26 (120)
-Academic Calendar Deadlines	ELEC 2200-LA3
-LAB (1940)	Fr 10:30AM - 12:20PM
-Rm 3115, Lift 19, 22
-Academic Calendar Deadlines	ELEC 2200-T3
-TUT (1944)	Th 6:00PM - 6:50PM
-Rm 2503, Lift 25-26 (87)
-Academic Calendar Deadlines	ENGG 1150-L1
-LEC (3572)	We 9:00AM - 10:20AM
-Rm 2502, Lift 25-26 (120)
-Academic Calendar Deadlines	ENGG 1150-T2
-TUT (3576)	Fr 4:30PM - 5:50PM
-Rm 5620, Lift 31-32 (70)
+Academic Calendar Deadlines	ELEC 4120-T1
+TUT (2020)	Tu 5:30PM - 6:20PM
+G010, CYT Bldg (140)
 Academic Calendar Deadlines	ENGG 2010-T1
-TUT (3577)	Room:  TBA
-Academic Calendar Deadlines	MATH 2011-L1
-LEC (3095)	TuTh 1:30PM - 2:50PM
-Lecture Theater D (216)
-Academic Calendar Deadlines	MATH 2011-T1D
-TUT (3704)	Fr 2:00PM - 2:50PM
-Rm 3598, Lift 27-28 (42)
+TUT (3488)	Room:  TBA
+Academic Calendar Deadlines	HUMA 1000-L2
+LEC (2189)	Tu 1:00PM - 2:50PM
+Lecture Theater A (400)
+Academic Calendar Deadlines	HUMA 1000-T2E
+TUT (2218)	Fr 5:30PM - 7:20PM
+Rm 5566, Lift 27-28 (24)
+Academic Calendar Deadlines	LANG 2030-T15
+TUT (2835)	TuTh 3:00PM - 4:20PM
+Rm 2128C, Lift 19 (28)
+Academic Calendar Deadlines	PHYS 1114-L3
+LEC (3347)	MoWe 12:00PM - 1:20PM
+Rm 4620, Lift 31-32 (126)
+Academic Calendar Deadlines	PHYS 1114-T3C
+TUT (3360)	We 2:00PM - 2:50PM
+Rm 4475, Lift 25-26 (30)
